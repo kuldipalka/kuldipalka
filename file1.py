@@ -1,0 +1,12 @@
+# this is comment
+print("line A\nline B\nline c")
+print("name\tkuldip")
+print("this is double backslash\\")
+print("hell\blo")
+print("line A \\n line B")
+print("line A \\t line b")
+print("this is \\\\ double backslash")
+print("this are moaintain /\\/\\/\\/\\")
+print("he is \tawesome")
+print("\\\" \\n \\t \\'")
+print(r"line A \n line B")

@@ -1,0 +1,4 @@
+name,age = "kuldip" , "28"
+print(" hello " +  name + " my age is " +   age)
+x=y=z=1
+print(x+y+z)
